@@ -1,0 +1,16 @@
+.text{
+    color:aliceblue;
+    font-family: Terminus;
+    text-shadow: 3px 3px #818181
+}
+.logo{
+    height: 200px;
+    width: auto;
+}
+.mainrows{
+    padding: 20px;
+}
+@font-face {
+    font-family: Terminus;
+    src: url("assets/terminus.ttf");
+}
